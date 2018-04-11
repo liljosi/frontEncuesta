@@ -1,0 +1,288 @@
+[
+  {
+    "pregunta": "1. ¿Le dieron a conocer las Reglas de operación del Programa de Escuelas de tiempo Completo a usted  durante las reuniones del Consejo Técnico de Zona?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "2. ¿La supervisión escolar le proporcionó algún documento oficial para la orientación sobre la elaboración de la Ruta de Mejora en su escuela?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "3. ¿La Ruta de Mejora contó con los elementos solicitados (Planeación de actividades, autoevaluación/diagnóstico, establecimiento de prioridades, objetivos, metas, acciones y compromisos, implementación, evaluación)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "4. ¿Se realizó la Ruta de Mejora en su escuela para el ciclo escolar 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "5. ¿De acuerdo a lo presentado en la ruta de mejora se ha realizado y entregado el Informe de resultados escolares, administrativos y financieros a la comunidad escolar?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "6. ¿Se ha realizado de manera pertinente y continua la evaluación propuesta en la Ruta de Mejora ciclo escolar 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "7. ¿Con cuál calendario escolar labora su escuela en el ciclo escolar 2017-2018?",
+    "respuestas": ["185", "195"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "8. ¿Los objetivos establecidos en la Ruta de Mejora ciclo escolar  2017-2018 son congruentes con los objetivos  del PETC?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "9. ¿Cuántos grupos tiene este plantel en el ciclo escolar 2017-2018?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "10. ¿Con cuántos intendentes cuenta el plantel en el ciclo escolar 2017-2018?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "11. ¿Con cuántos docentes cuenta este plantel en el ciclo escolar 2017-2018?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "12. ¿Cuál es el horario que se tiene en este plantel en el ciclo escolar 2017-2018?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "13. ¿De cuantas horas es la jornada que se tiene en esta escuela en el ciclo  2017-2018?",
+    "respuestas": [
+      "6 horas",
+      "8 horas"
+    ],
+    "observaciones": true
+  },
+  {
+    "pregunta": "14. ¿El personal cumple con la jornada escolar establecida?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "15. ¿Se tiene personal con doble plaza en este plantel? De ser así ¿Cuántas personas son?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "16. ¿Se tiene personal docente que reciba el apoyo económico del Programa escuelas de tiempo completo?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "17. ¿Cuál es el monto denominado Autonomía de la Gestión que se recibió en el ciclo escolar 2016-2017?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "18. ¿Reciben apoyo económico de algún otro programa federal?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "19. ¿Cuál es el porcentaje del monto denominado Autonomía de gestión que se destinó a la compra de material didáctico, así como software?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "20. ¿Cuál es el porcentaje del monto denominado Autonomía de gestión que se destinó al acondicionamiento y habilitación de espacios educativos?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "21. ¿Cuál es el porcentaje del monto denominado Autonomía de gestión que se destinó al desarrollo de habilidades digitales de la comunicación escolar en el uso y aprovechamiento de las Tecnologías de la Información y Comunicación en la educación?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "22. ¿Se cuentan con las facturas que amparen lo adquirido con el recurso denominado Autonomía de la Gestión ciclo escolar 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "23. ¿Las justificaciones de las facturas de Autonomía de la Gestión son congruentes con las actividades estipuladas en la Ruta de Mejora?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "24. ¿Las facturas del recurso Autonomía de la Gestión cuentan con la justificación pertinente de la compra del material, o servicio al reverso de la factura?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "25. ¿Los muebles/adquisiciones, con un valor mayor de quinientos pesos, están debidamente inventariados?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "26. ¿Se cuenta con la carta de liberación del recurso Autonomía de la Gestión 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "27. ¿Se tiene en resguardo una copia del Informe Financiero correspondiente al recurso denominado Autonomía de la Gestión ciclo escolar 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "28. ¿La escuela cuenta con su Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "29. ¿En las planeaciones de los docentes, se incluye la utilización del Fichero deActividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "30. ¿El Fichero de Actividades Didácticas se encuentra al alcance de los docentes?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "31. ¿ Cuál es la principal linea de trabajo más utilizadas del Fichero de Actividades Didácticas?",
+    "respuestas": [
+      "Leer y escribir", 
+      "Aprender a  convivir",
+      "Aprender con TIC",
+      "Vivir saludablemente",
+      "Jugar con números y algo más",
+      "Lenguas indígenas"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "32. ¿Se lleva algún registro de utilización de Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "33. ¿Se utiliza de manera constante el Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "34. ¿Cuántas horas a la semana se utiliza la línea educativa Aprender con TIC?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "35. ¿Cuántas horas a la semana se utiliza la línea educativa Leer y escribir?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "36. ¿Cuántas horas a la semana se utiliza la línea educativa Aprender a convivir?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "37. ¿Cuántas horas a la semana se utiliza la línea educativa Jugar con números y algo más?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "38. ¿Cuántas horas a la semana se utilizala línea educativa Vivir saludablemente?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "39. Los Ficheros de Actividades Didácticas se han utilizado para…",
+    "respuestas": [
+      "Fortalecer aprendizajes",
+      "Evaluar aprendizajes adquiridos",
+      "Dejar tarea a los alumnos",
+      "Dar introducción a un tema"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "40. ¿Con la propuesta pedagógica y los diversos materiales académicos que ofrece el PETC, el aprendizaje de los alumnos ha mejorado?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "41. ¿Qué tanta disposición se ha notado para la utilización del Fichero de Material Didáctico por parte de los docentes?",
+    "respuestas": ["Mucha", "Regular", "Poca"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "42. ¿Conoce los Lineamientos para la Organización y el Funcionamiento de las Escuelas de Tiempo Completo? (nivel primaria o secundaria según sea el caso)",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "43. ¿Dió a conocer los Lineamientos para la Organización y el Funcionamiento de las Escuelas de Tiempo Completo a su colectivo docente? (nivel primaria o secundaria según sea el caso)",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "44. ¿Cuenta con servicio de alimentación el plantel?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "45. ¿Se ha notado mejora académica en los alumnos a partir de la implementación del servicio de alimentos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "46. ¿El personal de alimentación que recibe los insumos está debidamente capacitado para realizar ésta tarea? ",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "47. ¿El plantel cuenta con internet?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "48. ¿El plantel cuenta con Biblioteca?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "49. ¿El plantel cuenta con sala de usos múltiples?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "50. ¿Se recibieron visitas del supervisor/a de zona al plantel durante el ciclo escolar 2017-2018?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "51. ¿Cuántas veces al mes el/la supervisor/a de zona ha visitado la escuela durante el ciclo escolar 2017-2018?",
+    "respuestas": [
+      "1 vez",
+      "De 2 a 3 veces",
+      "De 3 a 5 veces",
+      "Más de 5 veces"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "52. ¿El/La supervisor/a o ATP realiza visitas a los maestros para observar y retroalimentar su práctica docente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "53. ¿Cómo se registra la visita de el/la supervisor/a de zona en la escuela?",
+    "respuestas": [],
+    "observaciones": true
+  }
+  
+]

@@ -2,6 +2,9 @@ import React, {Component} from 'react';
 import {AppRegistry, Text, View,TextInput, Button,StyleSheet,ScrollView} from 'react-native';
 import {StackNavigator} from 'react-navigation';
 import Seleccion from './app/components/seleccion';
+import PreguntasDire from './app/components/preguntasDirector';
+import PreguntasPsico from './app/components/preguntasPsicologo';
+import PreguntasNutri from './app/components/preguntasNutriologo';
 
 export default class encuesta extends Component{
     static navigationOptions ={
@@ -33,10 +36,10 @@ export default class encuesta extends Component{
                         <Text style ={styles.activeTitle}>Nombre de Escuela: </Text>
                     
                                 <TextInput
-                            style={{height: 40}}
-                            onChangeText={(text) => this.setState({text})}
-                            value={this.state.text}
-                        />
+                                    style={{height: 40}}
+                                    onChangeText={(text) => this.setState({text})}
+                                    value={this.state.text}
+                                />
 
                         <Text style ={styles.activeTitle}>CCT: </Text>
                     
@@ -157,10 +160,15 @@ export default class encuesta extends Component{
 }
 
 
-const myscreens = StackNavigator({
+ const myscreens = StackNavigator({
     Home: {screen:encuesta},
-    Personnel:{screen:Seleccion}
+    Personnel:{screen:Seleccion},
+    PreguntasDirector:{screen:PreguntasDire},
+    PreguntasPsicologo:{screen:PreguntasPsico},
+    PreguntasNutriologo:{screen:PreguntasNutri}
+
 })
+
 
 AppRegistry.registerComponent('Encuesta',()=>myscreens);
 
@@ -185,3 +193,4 @@ const styles = StyleSheet.create({
         backgroundColor:'#313131'
     }
   });
+

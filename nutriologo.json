@@ -1,0 +1,678 @@
+[{
+    "pregunta": "72. ¿El coordinador de Servicios de alimentación es nutrióloga o madre/padre de familia y cual es su nombre completo?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "73. ¿El plantel escolar recibe algún programa de DIF?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "74. ¿Cuál es el horario de comida?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "75. ¿Cuál es el número de alumnos que consumen alimentos regularmente?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "76. ¿Cuántas capacitaciones ha recibido el personal de preparación de alimento, en preparación, limpieza y desinfección de alimentos?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "77.¿El menú está a la vista de la comunidad escolar?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "78. ¿El menú es del agrado de los beneficiarios?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "79. ¿La comida ofertada va acorde al menú establecido?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "80. Los insumos que se reciben, por parte de los proveedores del PETC, ¿se encuentran en buen estado?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "81. ¿El comedor cuenta con sillas, tablones, utensilios de cocina suficientes para la preparación de los alimentos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "82. ¿Los beneficiarios aportan cuota de recuperación por la ración alimentaria?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "83. ¿Cuál es el lugar donde se prepara la comida?",
+    "respuestas": [
+      "Casa",
+      "Negocio de comida",
+      "Cocina escolar",
+      "Otro"
+    ],
+    "observaciones": true
+  },
+  {
+    "pregunta": "84. ¿En qué se utiliza la cuota de recuperación? Cabe aclarar, que dicha cuota es totalmente independiente del PETC.",
+    "respuestas": [
+      "Gas",
+      "Tortilla",
+      "Recoger insumos",
+      "Enriquecer desayunos",
+      "Agua",
+      "Pago a los preparadores de alimentos"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "85. ¿La comida escolar incluye verdura?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "86. ¿La comida escolar incluye fruta fresca como postre?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "87. ¿La comida escolar incluye de una a dos variedades de cereal por menú de los siguientes: (tortilla de maíz, avena, arroz, papa con cascara, tortilla de harina integral, pasta integral o galletas integrales)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "88. ¿La comida escolar incluye leguminosas (frijoles, lentejas, soya, habas preparadas)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "89. ¿La comida escolar incluye pescado o carne de bajo contenido de grasa como la pechuga de pollo sin piel o carne sin grasa?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "90. ¿La comida escolar utiliza algunas de estas preparaciones (hervido, cocido, al vapor, asado, a la plancha o a la parrilla)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "91. ¿Para la preparación de la comida escolar se utilizó aceites vegetales (aceite de canola, de soya, de girasol, o de maíz)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "92. ¿ La comida escolar incluye cereales de grano entero como: pan integral, bolillo integral, pasta integral o galletas integrales?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "93. ¿Con qué bebida se acompañó la comida escolar?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "94. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.1. las  instalaciones  evitan la contaminación de las materias primas, alimentos y bebidas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "95. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.2 los pisos, paredes y techos son de fácil limpieza dentro de las áreas de producción o elaboración de alimentos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "96. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.2 los pisos, paredes y techos se encuentran sin grietas o roturas dentro de las áreas de producción o elaboración?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "97. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.3 las puertas están provistas de protecciones para evitar la entrada de lluvia, fauna nociva o plagas en el área de producción.?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "98. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.4  se cuenta con tuberías,  conductos, rieles y cables que eviten pasar por encima de tanques y áreas de producción o elaboración, donde el producto esté expuesto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "99. ¿Según la NOM-251-SSA1-2009 Numeral 5.1.4 las tuberías,  conductos, rieles y cables están en buenas condiciones y limpios en caso de que pasen por encima de tanques y áreas de producción o elaboración, donde el producto esté expuesto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "100. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.2 se cuenta equipos lisos, lavables y sin roturas que se emplean en las áreas donde se manipulen directamente materias primas, alimentos, bebidas puedan entrar en contacto con ellos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "101. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.2 se cuenta con utensilios lisos, lavables y sin roturas que se emplean en las áreas donde se manipulen directamente materias primas, alimentos, bebidas o suplementos alimenticios sin envasar y puedan entrar en contacto con ellos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "102. ¿El  equipo empleado en la producción o elaboración es inocuo y resistente a la corrosión?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "103. ¿Los utensilios empleados en la producción o elaboración de alimentos son inocuos y resistentes a la corrosión?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "104. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.3 los materiales empleados en el proceso en contacto directo con alimentos, bebidas o materias primas  permiten ser lavados adecuadamente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "105. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.3 los materiales empleados en el proceso en contacto directo con alimentos, bebidas o materias primas  permiten ser desinfectados adecuadamente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "106. ¿Qué material o químico se utiliza para desinfectar los materiales empleados en el proceso en contacto directo con alimentos, bebidas o materias primas ?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "107. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.4 los equipos de refrigeración y congelación evitan la acumulación de agua?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "108. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.5 los termómetros o dispositivos están funcionando correctamente para el registro de temperatura de los equipos de refrigeración y/o congelación y están colocados en un lugar accesible para su monitoreo?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "109. ¿Según la NOM-251-SSA1-2009 Numeral 5.2.1 los equipos están instalados en forma, tal, que el espacio entre ellos mismos, la pared, el techo y piso, permita su limpieza y desinfección.?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "110. ¿Según la NOM-251-SSA1-2009 Numeral 5.4.1 las condiciones de almacenamiento son adecuadas al tipo de alimentos que se maneja ?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "111. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.9 las materias primas, alimentos, bebidas o suplementos alimenticios están  almacenados y agrupados de acuerdo con su naturaleza?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "112. ¿Según la NOM-251-SSA1-2009 Numeral 5.4.2 los recipientes que  contengan detergentes, agentes de limpieza, químicos y sustancias tóxicas,  están cerrados e identificados?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "113. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.9 las materias primas, alimentos, bebidas o suplementos alimenticios están identificados y fechados de manera tal que se permita aplicar un sistema de Primeras Entradas y Primeras Salidas (PEPS)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "114. ¿Según la NOM-25 1-SSA1-2009 Numerales 5.4.3 y 6.4.4 las mesas, estibas, tarimas, anaqueles, entrepaños, estructura o cualquier superficie están limpias y en condiciones que evite la contaminación de las materias primas y/o productos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "115. ¿Al momento de la recepción de productos perecederos, se verifica que el olor, color y textura sean los propios del alimento?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "116. ¿Según la NOM-251-SSA1-2009 Numeral 5.4.2 y  5.4.6 los agentes químicos, sustancias tóxicas, escobas, trapeadores, recogedores, fibras y cualquier otro utensilio empleado para la limpieza están separados y almacenados en un área específica?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "117. ¿Al momento de la recepción de productos  no perecederos, se verifica la fecha de caducidad y el estado del empaque de los los mismos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "118. ¿Según la NOM-251-SSA1-2009 Numeral 5.4.4 exise una adecuada colocación de materias primas, alimentos, bebidas o suplementos alimenticios que permitan la circulación del aire?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "119. ¿Según la NOM-251-SSA1-2009 Numeral 5.7.1 los envases y recipientes están protegidos contra el polvo, lluvia, fauna nociva y materia extraña?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "120. ¿Según la NOM-251-SSA1-2009 Numeral 5.7.2  se revisa que los envases están limpios,  desinfectados y  en buen estado antes de su uso?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "121. ¿El envase primario es de material inocuo y protege al producto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "122. ¿Se utilizan materiales de empaque y envases de materias primas que NO hayan sido empleados previamente para fines diferentes a los que fueron destinados originalmente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "123. ¿Según la NOM-251-SSA1-2009 Numeral 5.7.5  los recipientes o envases vacíos para reutilización en alimentos o bebidas se verifican que NO hayan contenido previamente medicamentos, plaguicidas, agentes de limpieza, agentes de desinfección o cualquier sustancia tóxica?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "124. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.1 el abastecimiento de agua potable es el adecuado?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "125. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.1  las instalaciones son apropiadas para almacenamiento y distribución de agua potable?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "126. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.2 las cisternas o tinacos utilizados para el almacenamiento de agua están debidamente tapados?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "127. ¿Según la NOM-127-SSA1-1994 NOM-251-SSA1-2009 Numerales 5.8.1. y 5.8.2 se  práctica de alguna medida y/o método que garantice la potabilidad del agua? De ser afirmativo ¿qué método se utiliza?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "128. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.3  se cuenta con filtro, trampas o cualquier otro mecanismo que impida la contaminación del agua, en las cisternas o tinacos que tengan respiradero?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "129. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.5 se asegura que el drenaje que esté provisto de trampas contra olores,  o con canaletas con rejillas, las cuales deben mantenerse libres de basura, sin estancamientos y en buen estado?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "130. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.7 los drenajes están provistos de trampas de grasa?",
+    "respuestas": ["Sí", "No", "No aplica"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "131. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.12   se tienen focos y lámparas en las áreas donde se encuentre producto sin envasar, que cuenten con protección en caso de estallamiento o que sean de material que impida su astillamiento?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "132. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.11 se cuenta con la iluminación adecuada que permita realizar las operaciones de manera higiénica?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "133. ¿Según la NOM-251-SSA1-2009 Numeral 7.2.1  se verifica que las instalaciones tengan abastecimiento de agua potable suficiente para la limpieza de los alimentos, utensilios, equipos y elaboración de hielo o simplemente si está en contacto con materias primas, productos, superficies y envases?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "134. ¿Según la NOM-251-SSA1-2009 Numeral 6.3.1 se cuenta con tarja exclusiva para el lavado de utensilios que impida el contacto directo con materias primas y productos en proceso?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "135. ¿Según la NOM-251-SSA1-2009 Numeral 6.3.2 se cuenta con un área exclusiva para el lavado de artículos empleados para la limpieza?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "136. ¿Según la NOM-251-SSA1-2009 Numeral 6.3.3 las estaciones de lavado o desinfección de manos para el personal son accesibles al área de producción?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "137. ¿Según la NOM-251-SSA1-2009 Numeral 7.2.2 el área de elaboración cuenta  con estación de lavado y desinfección de manos abastecida de agua, jabón o detergente desinfectante, toallas desechables o dispositivo de secado por aire caliente y depósito de basura?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "138. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8 se verifica que los baños NO estén comunicados directamente con el área de producción o elaboración?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "139. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8 los baños cuentan con agua potable?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "140. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8 los baños cuentan con retrete?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "141. ¿ Según la NOM-251-SSA1-2009 Numeral 5.3.8  los baños cuentan con lavabo?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "142. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8 los baños cuentan con detergente o jabón?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "143. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8  los baños cuentan con papel higiénico y toallas desechables o secador de aire de accionamiento automático?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "144. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8  los baños cuentan con bote de basura, bolsa, con tapa oscilante o accionada por pedal?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "145. ¿Según la NOM-251-SSA1-2009 Numeral 5.3.8  los baños cuentan con rótulos o ilustraciones que promuevan la higiene personal y el correcto lavado de manos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "146. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.5 el almacenamiento de agua y hielo potable es en recipientes lisos, lavables y con tapa?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "147. ¿Según la NOM-251-SSA1-2009 Numeral 5.5.2 se verifica que los equipos de refrigeración mantengan una temperatura máxima de 7°C?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "148. ¿Según la NOM-251-SSA1-2009 Numeral 5.5.3 se verifica que los equipos de congelación mantengan una temperatura que permita la congelación del producto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "149. ¿Según la NOM-251-SSA1-2009 Numeral 5.5.5 se asegura el evitar contacto de alimentos procesados con los no procesados, aun cuando requieran de las mismas condiciones de temperatura o humedad para su conservación (contaminación cruzada)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "150. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.1 se inspeccionan o clasifícan las materias primas e insumos antes de la producción o elaboración del producto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "151. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.4 se asegura la ausencia de materias primas que puedan representar un riesgo a la salud al utilizarse en la elaboración del producto?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "152. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.3 se realiza la identificación de las materias primas, excepto aquellas en las que sea evidente la misma?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "153. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.5 se asegura que las Materias primas estén contenidas en envases cerrados para evitar su posible contaminación?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "154. ¿Según la NOM-251-SSA1-2009 Numeral 5.6.2 Se asegura la NO utilización de materias primas que muestren fecha de caducidad vencida?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "155. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se restringe la exposición de los alimentos a temperatura ambiente el menor tiempo posible?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "156. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se realiza la descongelación de alimentos por refrigeración, cocción, exposición a microondas o chorro de agua fría sin estancamientos, nunca a temperatura ambiente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "157. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se asegura el No volver a congelar alimentos descongelados?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "158. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.3 se verifica el marcar y separar los productos alimenticios rechazados y eliminarlos lo antes posible?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "159. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.8 se verifica el mantener cubiertos los alimentos preparados que se encuentran en exhibición?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "160. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se realiza el lavado individual de alimentos frescos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "161. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se realiza el lavado y desinfección de vegetales y frutas antes de su uso?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "162. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.1 se utilizan desinfectantes para frutas y vegetales de acuerdo con las especificaciones del fabricante?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "163. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.2 se verifica que la temperatura máxima de recepción de productos de pescado sea de 4° C (39.2 °F)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "164. ¿Según la NOM-251-SSA1-2009 Numerales 7.1.1 y 7.3.3, se verifica que la temperatura mínima en los alimentos preparados y exhibidos listos para servirse sea de 60°C (140°F)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "165. ¿Según la NOM-251-SSA1-2009 Numerales 7.1.1 y 7.3.3 se asegura que la temperatura máxima sea de 7°C (45°F) en los alimentos preparados y exhibidos listos para servirse fríos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "166. ¿Según la NOM-251-SSA1-2009 Numeral 7.4.10 se utiliza una sola vez los sobrantes de alimentos del día que están en buen estado para elaborar productos que van a ser sometidos a cocción?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "167. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.2 el equipo y utensilios se encuentran limpios antes de su uso en el área de cocina?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "168. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.2 el equipo y utensilios se encuentran desinfectados antes de su uso en el área de cocina?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "169. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.7 los baños son utilizados para los fines que están destinados, evitando su uso como bodega u otros?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "170. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.5 las instalaciones (techo, puertas, paredes y piso) limpias?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "171. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.7 los baños están limpios y desinfectados?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "172. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.5 el  mobiliario está continuamente limpio?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "173. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.6 los pisos y sus uniones con acabados permiten la fácil limpieza en las áreas de producción o elaboración de alimentos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "174. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.6 las paredes y techos así como sus uniones con acabados permiten la fácil limpieza en las áreas de producción o elaboración de alimentos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "175. ¿Según la NOM-251-SSA1-2009 Numeral 5.9.8 el uso de agentes de limpieza para los equipos y utensilios es de acuerdo con las instrucciones del fabricante o de los procedimientos internos evitando que entren en contacto directo con materias primas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "176. ¿Según la NOM-251-SSA1-2009 Numeral 7.5.1 el equipo y utensilios son desinfectados al finalizar las actividades diarias o en los cambios de turno?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "177. ¿Según la NOM-251-SSA1-2009 Numeral 7.5.5 las superficies de las mesas están limpias y desinfectadas después de cada servicio y al final de la jornada, en las áreas de servicio y comedor?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "178. ¿Según la NOM-251-SSA1-2009 Numeral 7.5.5 se evita colocar los dedos en las partes de vasos, tazas, platos, palillos y popotes que estarán en contacto con alimentos y bebidas o con la boca de los comensales?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "179. ¿Según la NOM-251-SSA1-2009 Numeral 7.5.6 La realización del lavado de loza y cubiertos de acuerdo con el siguiente procedimiento: ? * Se escamochea antes de iniciar el lavado.  * Se lava pieza por pieza con agua y detergente, jabón líquido, en pasta u otros similares para este fin.  * Se enjuaga con agua potable.  * Se desinfecta por inmersión en agua caliente a temperatura de 75°C a 82°C con yodo, cloro u otros desinfectantes o algún otro procedimiento que garantice la desinfección por lo menos durante medio minuto.",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "180. ¿Según la NOM-251-SSA1-2009 Numeral 7.5.9 los trapos y jergas de uso específico, son lavados y desinfectados frecuentemente?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "181. ¿Según la NOM-251-SSA1-2009 Numeral 5.11.2  se realiza el retiro de los residuos generados durante la producción o elaboración de las áreas de producción cada vez que sea necesario, por lo menos una vez al día?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "182. ¿Según la NOM-251-SSA1-2009 Numeral 5.11.3 los recipientes están debidamente identificados y con tapa para los residuos?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "183. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.2 las áreas de producción o elaboración de los alimentos están libres de animales domésticos y mascotas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "184. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.4 los patios del establecimiento están libres de desperdicios?",
+    "respuestas": ["Sí", "No", "No aplica"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "185. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.4 los patios del establecimiento están libres de maleza o hierbas?",
+    "respuestas": ["Sí", "No", "No aplica"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "186. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.4 los patios del establecimiento están libres de encharcamientos o cualquier otra condición que pueda ocasionar contaminación del producto y proliferación de plagas?",
+    "respuestas": ["Sí", "No", "No aplica"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "187. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.5 los drenajes cuentan con cubierta que impida la entrada de plagas provenientes del alcantarillado o áreas externas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "188. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.6 las áreas de proceso están sin evidencia de la presencia de plagas o fauna nociva (roedores, moscas, hormigas, mosquitos, etc.)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "189. ¿ Según la NOM-251-SSA1-2009 Numeral 5.10.10 se cuentan con un área para almacenar los plaguicidas, ya sea contenedor o mueble, aislado y con acceso restringido, en recipientes claramente identificados y libres de cualquier fuga?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "190. ¿Según la NOM-251-SSA1-2009 Numeral 5.10.11 se tiene registro de los servicios de fumigación proporcionado por una empresa con licencia sanitaria?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "191. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.1 se excluye al personal del área de producción o manipulación de alimento que presenta los siguientes síntomas: Tos frecuente. Secreción Nasal. Diarrea. Vómito. Fiebre. Ictericia o lesiones en áreas corporales que entren en contacto directo con los alimentos y bebidas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "192. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.2 el personal se presenta aseado al área de trabajo, con ropa y calzado limpios?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "193. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.3 el personal inicia la jornada de trabajo con ropa de trabajo limpia e íntegra?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "194. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.5 el personal que utiliza guantes los mantiene limpios e íntegros, además de lavarse las manos antes de su uso?",
+    "respuestas": ["Sí", "No", "No aplica"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "195. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.6 el personal guarda ropa y objetos personales fuera de las áreas de producción o elaboración de alimentos y bebidas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "196. ¿Según la NOM-251-SSA1-2009 Numeral 7.6.2 el personal trae el el cabello corto o recogido, utiliza protección que cubra totalmente cabello, barba, bigote y patilla, tener las uñas recortadas, sin esmalte y no usar joyas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "197. ¿Según la NOM-251-SSA1-2009 Numeral 5.12.7 el personal se abstiene de fumar, comer, beber, toser, estornudar, escupir o mascar en las áreas donde se entra en contacto directo con alimentos, bebidas o suplementos alimenticios, materias primas y envase primario?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "198. ¿Según la NOM-251-SSA1-2009 Numeral 7.6.3 el personal utiliza guantes o protección de plástico cuando manipule dinero y elabore alimentos o bebidas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "199. ¿Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se realiza el llenado correcto del formato Registro de control de entrada y salida del almacén?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "200. ¿Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se realiza el llenado  correcto del formato Cédulas mensuales de evaluación del servicio de alimentación?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "201. ¿ Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se tiene copias de los menús de manera semanal?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "202. ¿Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se tienen copias de los vales de alimentación?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "203. ¿Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se tienen copias de las facturas de los proveedores?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "204. ¿Según lo solicitado por la coordinación estatal del PETC  como parte del control interno, se integra el expediente con los documentos anteriormente mencionados (Copias de facturas de proveedores, copias de los vales de alimentación, copia del menú, cédulas mensuales del servicio de alimentación, registros de control de entrada y salida del almacén)?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  }
+]

@@ -1,0 +1,112 @@
+[{
+    "pregunta": "54. ¿Se difundió la información de las Reglas de operación del Programa de Escuelas de tiempo Completo al personal durante las reuniones del Consejo Técnico Escolar?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "55. ¿Se le informó por parte del director respecto a la entrega y uso del  RECURSO denominado Autonomía de la Gestión del ciclo escolar 2017-2018 que se entregó a la escuela por parte del Programa Escuelas de Tiempo Completo?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "56. ¿De cuantas horas es la jornada que tiene el plantel?",
+    "respuestas": [
+      "6 horas",
+      "8 horas"
+    ],
+    "observaciones": true
+  },
+  {
+    "pregunta": "57. ¿En qué porcentaje se cumple con el horario de la jornada establecido?",
+    "respuestas": [
+      "100% - 95%",
+      "94%-90%",
+      "89%-85%",
+      "84%-80%",
+      "79%-75%",
+      "74%-70%"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "58. ¿En base a los objetivos académicos de este programa, sobre qué temas te gustaría recibir capacitaciones?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "59. ¿En la escuela se encuentra el Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "60. ¿Se tiene fácil acceso al Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "61. ¿Se tiene algún registro del uso del Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "62. ¿Cuál es la Línea de Trabajo Educativa, del Fichero de Actividades Didácticas que más utilizas?",
+    "respuestas": [
+      "Leer y escribir",
+      "Aprender a  convivir",
+      "Aprender con TIC",
+      "Vivir saludablemente",
+      "Jugar con números y algo más",
+      "Lenguas indígenas"
+    ],
+    "observaciones": false
+  },
+  {
+    "pregunta": "63. ¿Cuántas veces por semana se utiliza la línea de trabajo Leer y escribir?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "64. ¿Cuántas horas a la semana se utiliza la línea de trabajo Jugar con números y algo más?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "65. ¿Cuántas horas a la semana se utiliza la línea de trabajo Aprender a convivir?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "66. ¿Cuántas horas a la semana se utiliza la línea de trabajo Vivir saludablemente?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "67. ¿Cuántas horas a la semana se utiliza la línea de trabajo Aprender con TIC?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "68. ¿Cuántas horas a la semana se utiliza la línea de trabajo Lenguas Indígenas?",
+    "respuestas": [],
+    "observaciones": true
+  },
+  {
+    "pregunta": "69. ¿Qué tanta motivación ha recibido por parte del Director para la utilización del Fichero de Material Didáctico?",
+    "respuestas": ["Mucha", "Regular", "Poca"],
+    "observaciones": false
+  },
+  {
+    "pregunta": "70. ¿Se ha notado mejoría en el aprendizaje de sus alumnos por la aplicación de la propuesta pedagógica y la utilización del Fichero de Actividades Didácticas?",
+    "respuestas": ["Sí", "No"],
+    "observaciones": true
+  },
+  {
+    "pregunta": "71. Los Ficheros de Actividades Didácticas se han utilizado para…",
+    "respuestas": [
+      "Fortalecer aprendizajes",
+      "Evaluar aprendizajes adquiridos",
+      "Dejar tarea a los alumnos",
+      "Dar introducción a un tema"
+    ],
+    "observaciones": false
+  }]
